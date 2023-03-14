@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Location_Voiture
+build_property.RootNamespace = Location_Voiture
+build_property.ProjectDir = C:\Users\hp-info\Desktop\E-Commerce MVC\Location_Voiture\Location_Voiture\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\hp-info\Desktop\E-Commerce MVC\Location_Voiture\Location_Voiture
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/Assurances/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzdXJhbmNlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/Assurances/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzdXJhbmNlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/Assurances/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzdXJhbmNlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/Assurances/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzdXJhbmNlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/Assurances/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzdXJhbmNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/Marque/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFycXVlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/Marque/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFycXVlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/Marque/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFycXVlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/User/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/User/Test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxUZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/Voiture/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/Voiture/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/Voiture/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/Voiture/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/Voiture/Modif.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZVxNb2RpZi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/Voiture/MoreDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9pdHVyZVxNb3JlRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp-info/Desktop/E-Commerce MVC/Location_Voiture/Location_Voiture/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

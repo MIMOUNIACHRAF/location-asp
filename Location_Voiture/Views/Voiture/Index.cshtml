@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Location_Voiture.Models.Voiture>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container">
+    <div class="card">
+        <div class="card-header" >
+            <h1 class="text-center text-info">Voitures</h1>
+        </div>
+        <div class="card-body">
+        <a class="btn btn-link btn-success">Create New</a>
+        <br/>
+            <table class="table" style="width:100%; border:1px solid blue">
+            <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Matricule)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Nbr_Porte)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Photo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Couleur)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Marque)
+                </th>
+                <th>ACTIONS</th>
+            </tr>
+        </thead>
+        <tbody>
+    @foreach (var item in Model) {
+                var @imagepath = "Voiture/" + item.Photo;
+                <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Matricule)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nbr_Porte)
+                </td>
+                <td>
+                     <img src="@imagepath" height="100px;" width="100px;"/>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Couleur)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Marque.Libelle)
+                </td>
+                <td>
+                        <a class="btn btn-sm btn-primary" asp-action="Modif" asp-route-id="@item.Id"> Edit</a>
+                        <a class="btn btn-sm btn-warning" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                        <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+    }
+        </tbody>
+    </table>
+        </div>
+        <div class="card-footer">
+            <a class="btn btn-sm btn-primary" asp-action="Index" asp-controller="Home">Home</a>
+        </div>
+    </div>
+    
+</div>

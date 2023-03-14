@@ -1,0 +1,193 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\Mercedes-Benz-Classe-C.jpg",
+      "PackagePath": "staticwebassets\\Mercedes-Benz-Classe-C.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\Voiture\\60ac8a15-9b16-4600-a8a8-8ba39508f98c-mercedes-classe-a.jpg",
+      "PackagePath": "staticwebassets\\Voiture\\60ac8a15-9b16-4600-a8a8-8ba39508f98c-mercedes-classe-a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\Voiture\\88e3d474-6a3b-46fc-a686-4a18cce72c8f-Mercedes-Benz-Classe-C.jpg",
+      "PackagePath": "staticwebassets\\Voiture\\88e3d474-6a3b-46fc-a686-4a18cce72c8f-Mercedes-Benz-Classe-C.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\Voiture\\a181bcd6-0f11-4457-89d2-155e3a32aa4c-mercedes-classe-a.jpg",
+      "PackagePath": "staticwebassets\\Voiture\\a181bcd6-0f11-4457-89d2-155e3a32aa4c-mercedes-classe-a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\Voiture\\bf9c2496-ff6b-4778-bd48-6cbb03b6c7aa-Mercedes-Benz-Classe-C.jpg",
+      "PackagePath": "staticwebassets\\Voiture\\bf9c2496-ff6b-4778-bd48-6cbb03b6c7aa-Mercedes-Benz-Classe-C.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\Voiture\\c3a7cf84-c2af-4dfe-9d2f-1de156a64880-mercedes-classe-a.jpg",
+      "PackagePath": "staticwebassets\\Voiture\\c3a7cf84-c2af-4dfe-9d2f-1de156a64880-mercedes-classe-a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\Voiture\\eac84996-39e8-42fd-8022-5465bbe04b23-mercedes-classe-a.jpg",
+      "PackagePath": "staticwebassets\\Voiture\\eac84996-39e8-42fd-8022-5465bbe04b23-mercedes-classe-a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp-info\\Desktop\\E-Commerce MVC\\Location_Voiture\\Location_Voiture\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Location_Voiture.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Location_Voiture.props",
+      "PackagePath": "build\\Location_Voiture.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Location_Voiture.props",
+      "PackagePath": "buildMultiTargeting\\Location_Voiture.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Location_Voiture.props",
+      "PackagePath": "buildTransitive\\Location_Voiture.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
